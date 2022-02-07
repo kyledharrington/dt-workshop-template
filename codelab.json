@@ -1,0 +1,17 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-02-03T16:13:26-08:00",
+  "id": "dt-workshop-template",
+  "duration": 61,
+  "title": "DT Workshop \u0026 Code Lab Template",
+  "summary": "Dynatrace SE Workshop Template",
+  "source": "codelab-template.md",
+  "theme": "",
+  "status": null,
+  "category": null,
+  "tags": [],
+  "url": "dt-workshop-template"
+}
